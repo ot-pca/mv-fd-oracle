@@ -1,0 +1,29 @@
+{   
+    "hqc128": {
+        "lib path": "./hqc128/clean/lib/libhqc-128_clean.so",
+        "n": 17669,
+        "n1": 46,
+        "n2": 384,
+        "w": 66,
+        "message length": 16,
+        "all one blocks": [15, 13, 10, 14, 28, 25, 3, 5, 44, 17, 9, 35, 39, 31, 23]
+    },
+    "hqc192": {
+        "lib path": "./hqc192/clean/lib/libhqc-192_clean.so",
+        "n": 35851,
+        "n1": 56,
+        "n2": 640,
+        "w": 100,
+        "message length": 24,
+        "all one blocks": [41, 35, 9, 3, 15, 7, 29, 12, 44, 17, 19, 24, 33, 50, 21, 38]
+    },
+    "hqc256": {
+        "lib path": "./hqc256/clean/lib/libhqc-256_clean.so",
+        "n": 57637,
+        "n1": 90,
+        "n2": 640,
+        "w": 131,
+        "message length": 32,
+        "all one blocks": [3, 9, 11, 15, 16, 21, 22, 25, 33, 37, 38, 39, 40, 41, 43, 45, 48, 50, 52, 54, 58, 60, 62, 67, 71, 73, 80, 87, 88]
+    }
+}
