@@ -1,5 +1,5 @@
 
-This is the repo for the paper **Multi-Value Plaintext-Checking and Full-Decryption Oracle-Based Attacks on HQC from Offline Templates**. (Link:)
+This is the repo for the paper **Multi-Value Plaintext-Checking and Full-Decryption Oracle-Based Attacks on HQC from Offline Templates**. (Link:https://eprint.iacr.org/2025/1608)
 
 ### Overview
 
